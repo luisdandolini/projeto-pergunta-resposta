@@ -1,0 +1,24 @@
+body {
+  background-color: #f7f7f7;
+}
+
+#formulario-pergunta {
+  margin-top: 1rem;
+}
+
+.card-content {
+  margin-top: 3rem;
+}
+
+.menu-perguntas {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.button-responder {
+  margin-top: 1rem;
+}
+
+.card {
+  margin-top: 1rem;
+}
